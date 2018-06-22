@@ -1,6 +1,7 @@
 [![Coverage Status](https://coveralls.io/repos/github/wafyharb/dashingJS2/badge.svg?branch=master)](https://coveralls.io/github/wafyharb/dashingJS2?branch=master)
 [![Build Status](https://travis-ci.org/wafyharb/dashingJS2.svg?branch=master)](https://travis-ci.org/wafyharb/dashingJS2)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/a4708b693ed3481ab896ed047b5a0f7d)](https://www.codacy.com/app/wafyharb/dashingJS2?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=wafyharb/dashingJS2&amp;utm_campaign=Badge_Grade)
+[![Known Vulnerabilities](https://snyk.io/test/github/wafyharb/dashingJS2/badge.svg?targetFile=package.json)](https://snyk.io/test/github/wafyharb/dashingJS2?targetFile=package.json)
 # DashingJS2
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
